@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    name: 'Cooey Club',
+    description: 'Application Registry.',
+    icon: '/public/logo.gif',
+    listUrl: 'https://registry.cooey.club/',
+    contactUrl: 'https://cooey.club/support',
   },
   reactStrictMode: true,
   swcMinify: true,
